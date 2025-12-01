@@ -1,0 +1,4 @@
+(library
+ (name aoc_lib)
+ (libraries
+   base)) ; core standard library

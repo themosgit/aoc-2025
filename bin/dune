@@ -1,0 +1,7 @@
+(executable
+ (public_name aoc-runner)
+ (name main)
+ (libraries 
+   aoc_lib
+   day01
+  ))
