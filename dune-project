@@ -5,24 +5,24 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github themosgit/aoc-2025))
 
-(authors "Author Name <author@example.com>")
+(authors "Author Name <odysseas_o_alitis@protonmail.com>")
 
-(maintainers "Maintainer Name <maintainer@example.com>")
+(maintainers "Maintainer Name <bobomastoras@olomastorevei.com>")
 
-(license LICENSE)
+(license Katana Consequence 2.0)
 
-(documentation https://url/to/documentation)
+(documentation httpx://dox.com)
 
 (package
  (name aoc)
- (synopsis "A short synopsis")
- (description "A longer description")
+ (synopsis "oof")
+ (description "phre tis verges tis erikse panw apo ta vatia")
  (depends
   ocaml
   base)
  (tags
-  ("add topics" "to describe" your project)))
+  ("tragic" "code" your project)))
 
 ; See the complete stanza docs at https://dune.readthedocs.io/en/stable/reference/dune-project/index.html
