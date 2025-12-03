@@ -7,5 +7,3 @@ let parse_range input =
             Scanf.bscanf scanner "%c" ignore;
     Some (num1, num2)
     with End_of_file -> None
-
-

@@ -2,6 +2,7 @@ let run_day day_num part =
   match day_num with
   | 1 -> Day01.run part 
   | 2 -> Day02.run part
+  | 3 -> Day03.run part
   | _ -> Printf.eprintf "Error: Day %d not found\n" day_num
 
 let () =
