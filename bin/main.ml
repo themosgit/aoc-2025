@@ -4,6 +4,7 @@ let run_day day_num part =
   | 2 -> Day02.run part
   | 3 -> Day03.run part
   | 4 -> Day04.run part
+  | 5 -> Day05.run part
   | _ -> Printf.eprintf "Error: Day %d not found\n" day_num
 
 let () =

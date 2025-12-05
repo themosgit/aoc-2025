@@ -1,0 +1,4 @@
+(library
+  (name day05)
+  (modules day05 part1 part2)
+  (libraries aoc_lib)) ;
